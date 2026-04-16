@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3A0B0A-2694-4C5E-83A9-DD0AD46AE6D1}|UnitTests\\UnitTests.csproj|c:\\users\\cain\\source\\repos\\task_for_ksk_hr\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3A0B0A-2694-4C5E-83A9-DD0AD46AE6D1}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|c:\\users\\cain\\source\\repos\\task_for_ksk_hr\\task_for_ksk_hr\\services\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|solutionrelative:task_for_ksk_hr\\services\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|c:\\users\\cain\\source\\repos\\task_for_ksk_hr\\task_for_ksk_hr\\services\\ipurchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|solutionrelative:task_for_ksk_hr\\services\\ipurchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|c:\\users\\cain\\source\\repos\\task_for_ksk_hr\\task_for_ksk_hr\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|solutionrelative:task_for_ksk_hr\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|c:\\users\\cain\\source\\repos\\task_for_ksk_hr\\task_for_ksk_hr\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|solutionrelative:task_for_ksk_hr\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|c:\\users\\cain\\source\\repos\\task_for_ksk_hr\\task_for_ksk_hr\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|solutionrelative:task_for_ksk_hr\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|c:\\users\\cain\\source\\repos\\task_for_ksk_hr\\task_for_ksk_hr\\repositories\\purchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|solutionrelative:task_for_ksk_hr\\repositories\\purchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|c:\\users\\cain\\source\\repos\\task_for_ksk_hr\\task_for_ksk_hr\\monitors\\topcategoryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3A177A-0A77-4137-8DD6-6611DD4E81D6}|Task_for_KSK_hr\\Task_for_KSK_hr.csproj|solutionrelative:task_for_ksk_hr\\monitors\\topcategoryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Services\\PurchaseService.cs",
+              "RelativeDocumentMoniker": "Task_for_KSK_hr\\Services\\PurchaseService.cs",
+              "ToolTip": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Services\\PurchaseService.cs",
+              "RelativeToolTip": "Task_for_KSK_hr\\Services\\PurchaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:23:01.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPurchaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Services\\IPurchaseService.cs",
+              "RelativeDocumentMoniker": "Task_for_KSK_hr\\Services\\IPurchaseService.cs",
+              "ToolTip": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Services\\IPurchaseService.cs",
+              "RelativeToolTip": "Task_for_KSK_hr\\Services\\IPurchaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:47:20.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowDEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:37:35.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuyerController.cs",
+              "DocumentMoniker": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Controllers\\BuyerController.cs",
+              "RelativeDocumentMoniker": "Task_for_KSK_hr\\Controllers\\BuyerController.cs",
+              "ToolTip": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Controllers\\BuyerController.cs",
+              "RelativeToolTip": "Task_for_KSK_hr\\Controllers\\BuyerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:46:06.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "Task_for_KSK_hr\\Models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Models\\Purchase.cs",
+              "RelativeToolTip": "Task_for_KSK_hr\\Models\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:09:14.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Task_for_KSK_hr\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Models\\Item.cs",
+              "RelativeToolTip": "Task_for_KSK_hr\\Models\\Item.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:25:32.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PurchaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Repositories\\PurchaseRepository.cs",
+              "RelativeDocumentMoniker": "Task_for_KSK_hr\\Repositories\\PurchaseRepository.cs",
+              "ToolTip": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Repositories\\PurchaseRepository.cs",
+              "RelativeToolTip": "Task_for_KSK_hr\\Repositories\\PurchaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T15:35:41.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TopCategoryOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Monitors\\TopCategoryOptions.cs",
+              "RelativeDocumentMoniker": "Task_for_KSK_hr\\Monitors\\TopCategoryOptions.cs",
+              "ToolTip": "C:\\Users\\Cain\\source\\repos\\Task_for_KSK_hr\\Task_for_KSK_hr\\Monitors\\TopCategoryOptions.cs",
+              "RelativeToolTip": "Task_for_KSK_hr\\Monitors\\TopCategoryOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T18:24:29.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

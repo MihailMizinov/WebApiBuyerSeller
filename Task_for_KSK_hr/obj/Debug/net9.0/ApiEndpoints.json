@@ -1,0 +1,159 @@
+[
+  {
+    "ContainingType": "Task_for_KSK_hr.Controllers.BuyerController",
+    "Method": "Buy",
+    "RelativePath": "api/Buyer/buy/{itemId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itemId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "buyerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "amount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_for_KSK_hr.Controllers.BuyerController",
+    "Method": "GetItems",
+    "RelativePath": "api/Buyer/items",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_for_KSK_hr.Controllers.BuyerController",
+    "Method": "UpdatePurchaseAmount",
+    "RelativePath": "api/Buyer/purchase/{purchaseId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "purchaseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "newAmount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_for_KSK_hr.Controllers.BuyerController",
+    "Method": "DeletePurchase",
+    "RelativePath": "api/Buyer/purchase/{purchaseId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "purchaseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_for_KSK_hr.Controllers.BuyerController",
+    "Method": "GetPurchases",
+    "RelativePath": "api/Buyer/purchases",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "buyerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_for_KSK_hr.Controllers.SellerController",
+    "Method": "Add",
+    "RelativePath": "api/Seller/item",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "Task_for_KSK_hr.Models.Item",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_for_KSK_hr.Controllers.SellerController",
+    "Method": "Update",
+    "RelativePath": "api/Seller/item",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "Task_for_KSK_hr.Models.Item",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_for_KSK_hr.Controllers.SellerController",
+    "Method": "Delete",
+    "RelativePath": "api/Seller/item/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_for_KSK_hr.Controllers.SellerController",
+    "Method": "GetAll",
+    "RelativePath": "api/Seller/items",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_for_KSK_hr.Controllers.StatsController",
+    "Method": "Get",
+    "RelativePath": "api/Stats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
