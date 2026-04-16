@@ -6,16 +6,16 @@
 ## Скриншоты
 
 ### Swagger
-![swagger](images/1.jpg)
+![swagger](images/1.png)
 
 ### Добавление товара продавцом
-![add item](images/2.jpg)
+![add item](images/2.png)
 
 ### Покупка товара покупателем
-![buy item](images/3.jpg)
+![buy item](images/3.png)
 
 ### Самый доходный товар
-![stats](images/4.jpg)
+![stats](images/4.png)
 
 ### Тесты
-![stats](images/5.jpg)
+![stats](images/5.png)
